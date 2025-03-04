@@ -25,19 +25,19 @@ author:
   avatar           : "usagi.jpg"
   name             : "Bo-Wen Zhang"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Undergraduate student, School of Intelligence Science and Technology, Nanjing University"
+  bio              : "Undergraduate student\n School of Intelligence Science and Technology\n Nanjing University"
   location         : "Suzhou, Jiangsu, China"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Nanjing University"
+  uri              : "https://cbphcr.github.io/"# URL
   email            : "zbw@smail.nju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Cbphcr" # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
