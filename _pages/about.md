@@ -1,13 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## About Me
+
+TODO: Personal biography and introduction content will go here. This section should include a brief overview of your academic background, research interests, and professional experiences.
+
+## Research Interests
+
+TODO: This section will list your main research areas and interests. You can include specific domains, technologies, or methodologies that you specialize in.
+
+## Recent News
+
+- TODO: Recent achievement or news item
+- TODO: Conference attendance announcement
+- TODO: Publication acceptance or award
+
+## Publications
+
+### Recent Publications
+
+TODO: List of recent publications with brief descriptions and links to full papers. For a complete list of publications, please visit the [Publications](/publications/) page.
+
+## Contact Information
+
+Department of TODO
+University of TODO
+Email: TODO@example.edu
 
 A data-driven personal website
 ======
