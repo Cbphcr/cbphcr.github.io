@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Homepage"
+title: "Cbphcr"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,7 +25,7 @@ I am Bo-Wen Zhang, an undergraduate student at Nanjing University. My research f
 ### Recent Publications
 
 **ChinaTravel: A Real-World Benchmark for Language Agents in Chinese Travel Planning**  
-Jie-Jing Shao*, Xiao-Wen Yang*, Bo-Wen Zhang*, Baizhi Chen, Wen-Da Wei, Guohao Cai, Zhenhua Dong, Lan-Zhe Guo, Yu-feng Li  
+Jie-Jing Shao\*, Xiao-Wen Yang\*, Bo-Wen Zhang\*, Baizhi Chen, Wen-Da Wei, Guohao Cai, Zhenhua Dong, Lan-Zhe Guo, Yu-feng Li  
 arXiv preprint (2024)  
 [Paper](https://arxiv.org/abs/2412.13682) | [Page](https://www.lamda.nju.edu.cn/shaojj/chinatravel/)
 
