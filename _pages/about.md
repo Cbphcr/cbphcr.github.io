@@ -9,26 +9,29 @@ redirect_from:
 
 ## About Me
 
-TODO: Personal biography and introduction content will go here. This section should include a brief overview of your academic background, research interests, and professional experiences.
+I am Bo-Wen Zhang, an undergraduate student at Nanjing University. My research focuses on Neuro-Symbolic AI.
 
 ## Research Interests
 
-TODO: This section will list your main research areas and interests. You can include specific domains, technologies, or methodologies that you specialize in.
+- Neuro-Symbolic AI
+- LLM Agents
 
 ## Recent News
 
-- TODO: Recent achievement or news item
-- TODO: Conference attendance announcement
-- TODO: Publication acceptance or award
+- [December 2024] Our paper "ChinaTravel: A Real-World Benchmark for Language Agents in Chinese Travel Planning" is now available.
 
 ## Publications
 
 ### Recent Publications
 
-TODO: List of recent publications with brief descriptions and links to full papers. For a complete list of publications, please visit the [Publications](/publications/) page.
+**ChinaTravel: A Real-World Benchmark for Language Agents in Chinese Travel Planning**  
+Jie-Jing Shao*, Xiao-Wen Yang*, Bo-Wen Zhang*, Baizhi Chen, Wen-Da Wei, Guohao Cai, Zhenhua Dong, Lan-Zhe Guo, Yu-feng Li  
+arXiv preprint (2024)  
+[Paper](https://arxiv.org/abs/2412.13682) | [Page](https://www.lamda.nju.edu.cn/shaojj/chinatravel/)
+
 
 ## Contact Information
-
-Department of TODO
-University of TODO
-Email: TODO@example.edu
+School of Intelligence Science and Technology  
+Nanjing University, Suzhou Campus  
+Email: zbw@smail.nju.edu.cn  
+GitHub: [Cbphcr](https://github.com/Cbphcr)
